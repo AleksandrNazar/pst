@@ -1,0 +1,10 @@
+:root {
+    --main-bg-color: #ffffff;
+    --accent-bg-color: #5A666F;
+    --button-bg-color: #2B3C49;
+    --button-color: #ffffff;
+    --button-bg-color-hover: #1b3447;
+    --main-font: "Montserrat", Arial, sans-serif;
+    --accent-font: "Roboto", Arial, sans-serif;
+    --text-white: #ffffff;
+  }
